@@ -1,0 +1,1673 @@
+.wrapper-logo-chim {
+    width: 100%;
+    min-height: 200px;
+    position: relative;
+    overflow: hidden;
+    border: dotted 1px #CACACA;
+    background: #DADADA;
+  }
+
+  .wrapper-logo-chim .box {
+    width: 50px;
+    height: 50px;
+    left: 40%;
+    top: 40%;
+    position: absolute;
+    background: #0000ff;
+    cursor: move;
+  }
+
+  #dsHinhNen .img-thumbnail,
+  #dsVien .img-thumbnail {
+    max-width: 80px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+
+  .formatTextActive {
+    background-color: gray;
+    color: #FFF;
+  }
+
+  .clickChon {
+    border: solid 1px red;
+  }
+
+  .tab-pane .bb {
+    border-bottom: solid 1px #d8d8d8;
+  }
+
+  .clickChonDong {
+    background-color: #dbf6ff !important;
+  }
+
+  #divGiaoDien {
+    border: dashed 2px gray;
+    padding: 20px;
+    min-height: 150px
+  }
+
+  /*.ClickChon td {
+              border: dashed 3px red;
+              border-collapse:collapse;
+          }*/
+  input[type=checkbox] {
+    font-size: 24px;
+  }
+
+  .nav-pills .nav-link.active,
+  .nav-pills .show>.nav-link {
+    border-bottom: solid 2px #0d6efd;
+    border-radius: 0;
+    background-color: transparent;
+    color: #0a58ca !important;
+  }
+
+  .group-btn-color button {
+    border: 1px solid #fff;
+    border-radius: 3px;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 2;
+    width: 32px;
+    height: 32px;
+  }
+
+  .btn-color {
+    width: 32px;
+    height: 32px;
+    border-radius: 16px;
+    border: none;
+    margin-right: 5px;
+  }
+
+  .btn-black {
+    background-color: #000;
+  }
+
+  .btn-blue {
+    background-color: #0277bd;
+  }
+
+  .btn-red {
+    background-color: red;
+  }
+
+  .btn-green {
+    background-color: #70cddd;
+  }
+
+  .btn-color {
+    background-color: url(https://hddt.vin-hoadon.com/assets/common/images/rainbow-flag.png);
+  }
+
+  /*body {
+          position: relative;
+      }*/
+
+  /*.bottom-command {
+          position: absolute;
+          bottom: 80px;
+      }*/
+
+      
+      .hoadonmau {
+        margin: auto;
+        width: 780px;
+        position: relative;
+    }
+
+    .hoadonmau .boxLarge {
+        margin-left: auto;
+        margin-right: auto;
+        border: 1px solid;
+    }
+
+    .hoadonmau {
+        width: 780px;
+        margin: auto;
+    }
+
+    .hoadonmau #vong1 {
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+    }
+
+    .hoadonmau #imgVien {
+        position: absolute;
+        margin: auto;
+        top: 0px;
+        left: 0px;
+        right: 0px;
+        bottom: 0px;
+        width: 100%;
+        height: 100%;
+        opacity: 1;
+    }
+
+    .hoadonmau .boxLarge {
+        color: #000000;
+        border-style: solid;
+        border-width: 1px;
+        border-color: black;
+    }
+
+    .hoadonmau .serif {
+        font-family: "Times New Roman", Times, serif;
+        font-size: 13px;
+    }
+
+    .hoadonmau .logo {
+        width: 20%;
+    }
+
+    .hoadonmau .logo-img {
+        max-width: 220px;
+    }
+
+    .hoadonmau .hanghead {
+        vertical-align: top;
+        padding: 0px;
+    }
+
+    .hoadonmau .Otieude {
+        padding-top: 13px;
+    }
+
+    .hoadonmau .inchudam {
+        font-weight: bold;
+    }
+
+    .hoadonmau .innghiengchu {
+        font-style: italic;
+    }
+
+    .hoadonmau #bangbanhang {
+        font-size: 10pt;
+    }
+
+    .hoadonmau .hangcuoi {
+        font-size: 9px;
+        line-height: 13px;
+    }
+
+    .hoadonmau .bangnguoimua {
+        padding: 0px 0px 0px 0px;
+    }
+
+    .hoadonmau #big {
+        font-weight: bold;
+        font-size: 13pt;
+    }
+
+    .hoadonmau #bignghieng {
+        font-weight: bold;
+        font-size: 13pt;
+        font-style: italic;
+    }
+
+    .hoadonmau .indamchuto {
+        font-weight: bold;
+        font-size: 16px;
+    }
+
+    .hoadonmau .canleHD {
+        padding-top: 8px;
+    }
+
+    .hoadonmau .border-all {
+        border: 1px solid;
+    }
+
+    .hoadonmau .border-top-hd {
+        border-top: 1px solid;
+    }
+
+    .hoadonmau .border-lr {
+        border-left: 1px solid;
+        border-right: 1px solid;
+    }
+
+    .hoadonmau #bordermo {
+        border-bottom: #cccccc hidden 1px;
+    }
+
+    .hoadonmau #bordermo1 {
+        border-bottom: #cccccc dashed 1px;
+    }
+
+    .hoadonmau .textsize27 {
+        font-size: 27px;
+    }
+
+    .hoadonmau .textsize18 {
+        font-size: 18px;
+    }
+
+    .hoadonmau .textsize22 {
+        font-size: 22px;
+    }
+
+    .hoadonmau .textsize24 {
+        font-size: 24px;
+    }
+
+    .hoadonmau .canle1 {
+        padding: 4px 0px 0px 4px;
+    }
+
+    .hoadonmau .canle2 {
+        padding-bottom: 7px;
+    }
+
+    .hoadonmau #vong3 {
+        position: absolute;
+        opacity: 0.1;
+        border: 1;
+    }
+
+    .hoadonmau .align_center {
+        text-align: center;
+    }
+
+    .hoadonmau #replaced {
+        margin: auto;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        opacity: 0.7;
+        width: 310px;
+    }
+
+    .hoadonmau #impale {
+        margin: auto;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        opacity: 0.7;
+        width: 310px;
+    }
+
+    .hoadonmau #delete {
+        margin: auto;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        opacity: 0.7;
+        width: 310px;
+    }
+
+    body {
+        font-family: "Times New Roman", Times, serif;
+    }
+
+    .hoadonmau table {
+        border-collapse: collapse;
+        background-repeat: no-repeat !important;
+        font-size: 16px;
+    }
+
+    .hoadonmau td {
+        display: table-cell;
+        vertical-align: inherit;
+        font-size: 16px;
+    }
+
+    .hoadonmau .hdmpt- {
+        padding-top: 8px;
+    }
+
+    .hoadonmau .hdmpb- {
+        padding-bottom: 8px;
+    }
+
+    .hoadonmau .hdmpt-1 {
+        padding-top: 8px;
+    }
+
+    .hoadonmau .hdmpt-2 {
+        padding-top: 16px;
+    }
+
+    .hoadonmau .khung {
+        border-left: white solid 1px;
+    }
+
+    .hoadonmau .khung1 {
+        border-right: white solid 1px;
+    }
+
+    .hoadonmau .dongcuoi {
+        border-top: dashed 1px;
+    }
+
+    .hoadonmau .bordermo1:nth-last-child(1) {
+        border-bottom: solid 1px;
+    }
+
+    .hoadonmau .chuky {
+        border: red solid 1px;
+        position: relative;
+        font-size: 11px;
+        color: red;
+        width: 208px;
+        z-index: 999;
+        opacity: 1;
+    }
+
+    .hoadonmau .dauchuky {
+        position: absolute;
+        margin: auto;
+        top: 0px;
+        left: 80px;
+        right: 0px;
+        bottom: 0px;
+        width: 64px;
+        z-index: -1;
+        opacity: 1;
+    }
+
+    .chinhSua {}
+
+    .clClickChon {
+        border: solid red;
+    }
+
+    .clClickChon-tr {
+        border: dotted red;
+        background-color: #dbf6ff;
+    }
+
+    .thongTinNguoiBan {
+        width: 100%;
+        float: left;
+    }
+
+    .thongTinNguoiMua {}
+
+    .dab {
+        display: none;
+    }
+
+    .hoadonmau .fontsize8 {
+        font-size: 8px;
+    }
+
+    .hoadonmau .fontsize9 {
+        font-size: 9px;
+    }
+
+    .hoadonmau .fontsize10 {
+        font-size: 10px;
+    }
+
+    .hoadonmau .fontsize11 {
+        font-size: 11px;
+    }
+
+    .hoadonmau .fontsize12 {
+        font-size: 12px;
+    }
+
+    .hoadonmau .fontsize13 {
+        font-size: 13px;
+    }
+
+    .hoadonmau .fontsize14 {
+        font-size: 18px;
+    }
+
+    .hoadonmau .fontsize15 {
+        font-size: 15px;
+    }
+
+    .hoadonmau .fontsize16 {
+        font-size: 16px;
+    }
+
+    .hoadonmau .fontsize17 {
+        font-size: 17px;
+    }
+
+    .hoadonmau .fontsize18 {
+        font-size: 18px;
+    }
+
+    .hoadonmau .fontsize19 {
+        font-size: 19px;
+    }
+
+    .hoadonmau .fontsize20 {
+        font-size: 20px;
+    }
+
+    .hoadonmau .fontsize21 {
+        font-size: 21px;
+    }
+
+    .hoadonmau .fontsize22 {
+        font-size: 22px;
+    }
+
+    .hoadonmau .fontsize23 {
+        font-size: 23px;
+    }
+
+    .hoadonmau .fontsize24 {
+        font-size: 26px;
+    }
+
+    .hoadonmau .fontsize25 {
+        font-size: 25px;
+    }
+
+    .hoadonmau .fontsize26 {
+        font-size: 26px;
+    }
+
+    .hoadonmau .fontsize27 {
+        font-size: 27px;
+    }
+
+    .hoadonmau .fontsize28 {
+        font-size: 28px;
+    }
+
+    .hoadonmau .fontsize29 {
+        font-size: 29px;
+    }
+
+    .hoadonmau .fontsize30 {
+        font-size: 30px;
+    }
+
+    .hoadonmau .fontsize31 {
+        font-size: 31px;
+    }
+
+    .hoadonmau .fontsize32 {
+        font-size: 32px;
+    }
+
+    .hoadonmau .fontsize33 {
+        font-size: 33px;
+    }
+
+    .hoadonmau .fontsize34 {
+        font-size: 34px;
+    }
+
+    .hoadonmau .fontsize35 {
+        font-size: 35px;
+    }
+
+    .hoadonmau .lineheight8 {
+        line-height: 8px;
+    }
+
+    .hoadonmau .lineheight9 {
+        line-height: 9px;
+    }
+
+    .hoadonmau .lineheight10 {
+        line-height: 10px;
+    }
+
+    .hoadonmau .lineheight11 {
+        line-height: 11px;
+    }
+
+    .hoadonmau .lineheight12 {
+        line-height: 12px;
+    }
+
+    .hoadonmau .lineheight13 {
+        line-height: 13px;
+    }
+
+    .hoadonmau .lineheight14 {
+        line-height: 14px;
+    }
+
+    .hoadonmau .lineheight15 {
+        line-height: 15px;
+    }
+
+    .hoadonmau .lineheight16 {
+        line-height: 16px;
+    }
+
+    .hoadonmau .lineheight17 {
+        line-height: 17px;
+    }
+
+    .hoadonmau .lineheight18 {
+        line-height: 18px;
+    }
+
+    .hoadonmau .lineheight19 {
+        line-height: 19px;
+    }
+
+    .hoadonmau .lineheight20 {
+        line-height: 20px;
+    }
+
+    .hoadonmau .lineheight21 {
+        line-height: 21px;
+    }
+
+    .hoadonmau .lineheight22 {
+        line-height: 22px;
+    }
+
+    .hoadonmau .lineheight23 {
+        line-height: 23px;
+    }
+
+    .hoadonmau .lineheight24 {
+        line-height: 26px;
+    }
+
+    .hoadonmau .lineheight25 {
+        line-height: 25px;
+    }
+
+    .hoadonmau .lineheight26 {
+        line-height: 26px;
+    }
+
+    .hoadonmau .lineheight27 {
+        line-height: 27px;
+    }
+
+    .hoadonmau .lineheight28 {
+        line-height: 28px;
+    }
+
+    .hoadonmau .lineheight29 {
+        line-height: 29px;
+    }
+
+    .hoadonmau .lineheight30 {
+        line-height: 30px;
+    }
+
+    .hoadonmau .lineheight31 {
+        line-height: 31px;
+    }
+
+    .hoadonmau .lineheight32 {
+        line-height: 32px;
+    }
+
+    .hoadonmau .lineheight33 {
+        line-height: 33px;
+    }
+
+    .hoadonmau .lineheight34 {
+        line-height: 34px;
+    }
+
+    .hoadonmau .lineheight35 {
+        line-height: 35px;
+    }
+
+    .lineheight36 {
+        line-height: 36px
+    }
+
+    .lineheight37 {
+        line-height: 37px
+    }
+
+    .lineheight38 {
+        line-height: 38px
+    }
+
+    .hoadonmau .hdmpt-3 {
+        padding-top: 3px;
+    }
+
+    .hoadonmau .hdmpt-4 {
+        padding-top: 4px;
+    }
+
+    .hoadonmau .hdmpt-5 {
+        padding-top: 5px;
+    }
+
+    .hoadonmau .hdmpt-6 {
+        padding-top: 6px;
+    }
+
+    .hoadonmau .hdmpt-7 {
+        padding-top: 7x;
+    }
+
+    .hoadonmau .hdmpt-8 {
+        padding-top: 8px;
+    }
+
+    .hoadonmau .hdmpt-9 {
+        padding-top: 9px;
+    }
+
+    .hoadonmau .hdmpt-10 {
+        padding-top: 10px;
+    }
+
+    .hoadonmau .hdmpt-11 {
+        padding-top: 11px;
+    }
+
+    .hoadonmau .hdmpt-12 {
+        padding-top: 12px;
+    }
+
+    .hoadonmau .hdmpt-13 {
+        padding-top: 13px;
+    }
+
+    .hoadonmau .hdmpt-14 {
+        padding-top: 14px;
+    }
+
+    .hoadonmau .hdmpt-15 {
+        padding-top: 15px;
+    }
+
+    .hoadonmau .hdmpt-16 {
+        padding-top: 16px;
+    }
+
+    .hoadonmau .hdmpt-17 {
+        padding-top: 17px;
+    }
+
+    .hoadonmau .hdmpt-18 {
+        padding-top: 18px;
+    }
+
+    .hoadonmau .hdmpt-19 {
+        padding-top: 19px;
+    }
+
+    .hoadonmau .hdmpt-20 {
+        padding-top: 20px;
+    }
+
+    .hoadonmau .hdmpt-21 {
+        padding-top: 21px;
+    }
+
+    .hoadonmau .hdmpt-22 {
+        padding-top: 22px;
+    }
+
+    .hoadonmau .hdmpt-23 {
+        padding-top: 23px;
+    }
+
+    .hoadonmau .hdmpt-24 {
+        padding-top: 26px;
+    }
+
+    .hoadonmau .hdmpt-25 {
+        padding-top: 25px;
+    }
+
+    .hoadonmau .hdmpt-26 {
+        padding-top: 26px;
+    }
+
+    .hoadonmau .hdmpt-27 {
+        padding-top: 27px;
+    }
+
+    .hoadonmau .hdmpt-28 {
+        padding-top: 28px;
+    }
+
+    .hoadonmau .hdmpt-29 {
+        padding-top: 29px;
+    }
+
+    .hoadonmau .hdmpt-30 {
+        padding-top: 30px;
+    }
+
+    .hoadonmau .hdmpt-31 {
+        padding-top: 31px;
+    }
+
+    .hoadonmau .hdmpt-32 {
+        padding-top: 32px;
+    }
+
+    .hoadonmau .hdmpt-33 {
+        padding-top: 33px;
+    }
+
+    .hoadonmau .hdmpt-34 {
+        padding-top: 34px;
+    }
+
+    .hoadonmau .hdmpt-35 {
+        padding-top: 35px;
+    }
+
+    .hoadonmau .hdmpr-3 {
+        padding-right: 3px;
+    }
+
+    .hoadonmau .hdmpr-4 {
+        padding-right: 4px;
+    }
+
+    .hoadonmau .hdmpr-5 {
+        padding-right: 5px;
+    }
+
+    .hoadonmau .hdmpr-6 {
+        padding-right: 6px;
+    }
+
+    .hoadonmau .hdmpr-7 {
+        padding-right: 7x;
+    }
+
+    .hoadonmau .hdmpr-8 {
+        padding-right: 8px;
+    }
+
+    .hoadonmau .hdmpr-9 {
+        padding-right: 9px;
+    }
+
+    .hoadonmau .hdmpr-10 {
+        padding-right: 10px;
+    }
+
+    .hoadonmau .hdmpr-11 {
+        padding-right: 11px;
+    }
+
+    .hoadonmau .hdmpr-12 {
+        padding-right: 12px;
+    }
+
+    .hoadonmau .hdmpr-13 {
+        padding-right: 13px;
+    }
+
+    .hoadonmau .hdmpr-14 {
+        padding-right: 14px;
+    }
+
+    .hoadonmau .hdmpr-15 {
+        padding-right: 15px;
+    }
+
+    .hoadonmau .hdmpr-16 {
+        padding-right: 16px;
+    }
+
+    .hoadonmau .hdmpr-17 {
+        padding-right: 17px;
+    }
+
+    .hoadonmau .hdmpr-18 {
+        padding-right: 18px;
+    }
+
+    .hoadonmau .hdmpr-19 {
+        padding-right: 19px;
+    }
+
+    .hoadonmau .hdmpr-20 {
+        padding-right: 20px;
+    }
+
+    .hoadonmau .hdmpr-21 {
+        padding-right: 21px;
+    }
+
+    .hoadonmau .hdmpr-22 {
+        padding-right: 22px;
+    }
+
+    .hoadonmau .hdmpr-23 {
+        padding-right: 23px;
+    }
+
+    .hoadonmau .hdmpr-24 {
+        padding-right: 26px;
+    }
+
+    .hoadonmau .hdmpr-25 {
+        padding-right: 25px;
+    }
+
+    .hoadonmau .hdmpr-26 {
+        padding-right: 26px;
+    }
+
+    .hoadonmau .hdmpr-27 {
+        padding-right: 27px;
+    }
+
+    .hoadonmau .hdmpr-28 {
+        padding-right: 28px;
+    }
+
+    .hoadonmau .hdmpr-29 {
+        padding-right: 29px;
+    }
+
+    .hoadonmau .hdmpr-30 {
+        padding-right: 30px;
+    }
+
+    .hoadonmau .hdmpr-31 {
+        padding-right: 31px;
+    }
+
+    .hoadonmau .hdmpr-32 {
+        padding-right: 32px;
+    }
+
+    .hoadonmau .hdmpr-33 {
+        padding-right: 33px;
+    }
+
+    .hoadonmau .hdmpr-34 {
+        padding-right: 34px;
+    }
+
+    .hoadonmau .hdmpr-35 {
+        padding-right: 35px;
+    }
+
+    .hoadonmau .hdmpb-3 {
+        padding-bottom: 3px;
+    }
+
+    .hoadonmau .hdmpb-4 {
+        padding-bottom: 4px;
+    }
+
+    .hoadonmau .hdmpb-5 {
+        padding-bottom: 5px;
+    }
+
+    .hoadonmau .hdmpb-6 {
+        padding-bottom: 6px;
+    }
+
+    .hoadonmau .hdmpb-7 {
+        padding-bottom: 7x;
+    }
+
+    .hoadonmau .hdmpb-8 {
+        padding-bottom: 8px;
+    }
+
+    .hoadonmau .hdmpb-9 {
+        padding-bottom: 9px;
+    }
+
+    .hoadonmau .hdmpb-10 {
+        padding-bottom: 10px;
+    }
+
+    .hoadonmau .hdmpb-11 {
+        padding-bottom: 11px;
+    }
+
+    .hoadonmau .hdmpb-12 {
+        padding-bottom: 12px;
+    }
+
+    .hoadonmau .hdmpb-13 {
+        padding-bottom: 13px;
+    }
+
+    .hoadonmau .hdmpb-14 {
+        padding-bottom: 14px;
+    }
+
+    .hoadonmau .hdmpb-15 {
+        padding-bottom: 15px;
+    }
+
+    .hoadonmau .hdmpb-16 {
+        padding-bottom: 16px;
+    }
+
+    .hoadonmau .hdmpb-17 {
+        padding-bottom: 17px;
+    }
+
+    .hoadonmau .hdmpb-18 {
+        padding-bottom: 18px;
+    }
+
+    .hoadonmau .hdmpb-19 {
+        padding-bottom: 19px;
+    }
+
+    .hoadonmau .hdmpb-20 {
+        padding-bottom: 20px;
+    }
+
+    .hoadonmau .hdmpb-21 {
+        padding-bottom: 21px;
+    }
+
+    .hoadonmau .hdmpb-22 {
+        padding-bottom: 22px;
+    }
+
+    .hoadonmau .hdmpb-23 {
+        padding-bottom: 23px;
+    }
+
+    .hoadonmau .hdmpb-24 {
+        padding-bottom: 26px;
+    }
+
+    .hoadonmau .hdmpb-25 {
+        padding-bottom: 25px;
+    }
+
+    .hoadonmau .hdmpb-26 {
+        padding-bottom: 26px;
+    }
+
+    .hoadonmau .hdmpb-27 {
+        padding-bottom: 27px;
+    }
+
+    .hoadonmau .hdmpb-28 {
+        padding-bottom: 28px;
+    }
+
+    .hoadonmau .hdmpb-29 {
+        padding-bottom: 29px;
+    }
+
+    .hoadonmau .hdmpb-30 {
+        padding-bottom: 30px;
+    }
+
+    .hoadonmau .hdmpb-31 {
+        padding-bottom: 31px;
+    }
+
+    .hoadonmau .hdmpb-32 {
+        padding-bottom: 32px;
+    }
+
+    .hoadonmau .hdmpb-33 {
+        padding-bottom: 33px;
+    }
+
+    .hoadonmau .hdmpb-34 {
+        padding-bottom: 34px;
+    }
+
+    .hoadonmau .hdmpb-35 {
+        padding-bottom: 35px;
+    }
+
+    .hoadonmau .hdmpl-2 {
+        padding-left: 2px;
+    }
+
+    .hoadonmau .hdmpl-3 {
+        padding-left: 3px;
+    }
+
+    .hoadonmau .hdmpl-4 {
+        padding-left: 4px;
+    }
+
+    .hoadonmau .hdmpl-5 {
+        padding-left: 5px;
+    }
+
+    .hoadonmau .hdmpl-6 {
+        padding-left: 6px;
+    }
+
+    .hoadonmau .hdmpl-7 {
+        padding-left: 7x;
+    }
+
+    .hoadonmau .hdmpl-8 {
+        padding-left: 8px;
+    }
+
+    .hoadonmau .hdmpl-9 {
+        padding-left: 9px;
+    }
+
+    .hoadonmau .hdmpl-10 {
+        padding-left: 10px;
+    }
+
+    .hoadonmau .hdmpl-11 {
+        padding-left: 11px;
+    }
+
+    .hoadonmau .hdmpl-12 {
+        padding-left: 12px;
+    }
+
+    .hoadonmau .hdmpl-13 {
+        padding-left: 13px;
+    }
+
+    .hoadonmau .hdmpl-14 {
+        padding-left: 14px;
+    }
+
+    .hoadonmau .hdmpl-15 {
+        padding-left: 15px;
+    }
+
+    .hoadonmau .hdmpl-16 {
+        padding-left: 16px;
+    }
+
+    .hoadonmau .hdmpl-17 {
+        padding-left: 17px;
+    }
+
+    .hoadonmau .hdmpl-18 {
+        padding-left: 18px;
+    }
+
+    .hoadonmau .hdmpl-19 {
+        padding-left: 19px;
+    }
+
+    .hoadonmau .hdmpl-20 {
+        padding-left: 20px;
+    }
+
+    .hoadonmau .hdmpl-21 {
+        padding-left: 21px;
+    }
+
+    .hoadonmau .hdmpl-22 {
+        padding-left: 22px;
+    }
+
+    .hoadonmau .hdmpl-23 {
+        padding-left: 23px;
+    }
+
+    .hoadonmau .hdmpl-24 {
+        padding-left: 26px;
+    }
+
+    .hoadonmau .hdmpl-25 {
+        padding-left: 25px;
+    }
+
+    .hoadonmau .hdmpl-26 {
+        padding-left: 26px;
+    }
+
+    .hoadonmau .hdmpl-27 {
+        padding-left: 27px;
+    }
+
+    .hoadonmau .hdmpl-28 {
+        padding-left: 28px;
+    }
+
+    .hoadonmau .hdmpl-29 {
+        padding-left: 29px;
+    }
+
+    .hoadonmau .hdmpl-30 {
+        padding-left: 30px;
+    }
+
+    .hoadonmau .hdmpl-31 {
+        padding-left: 31px;
+    }
+
+    .hoadonmau .hdmpl-32 {
+        padding-left: 32px;
+    }
+
+    .hoadonmau .hdmpl-33 {
+        padding-left: 33px;
+    }
+
+    .hoadonmau .hdmpl-34 {
+        padding-left: 34px;
+    }
+
+    .hoadonmau .hdmpl-35 {
+        padding-left: 35px;
+    }
+
+    .hoadonmau .margintop8 {
+        margin-top: 8px;
+    }
+
+    .hoadonmau .margintop9 {
+        margin-top: 9px;
+    }
+
+    .hoadonmau .margintop10 {
+        margin-top: 10px;
+    }
+
+    .hoadonmau .margintop11 {
+        margin-top: 11px;
+    }
+
+    .hoadonmau .margintop12 {
+        margin-top: 12px;
+    }
+
+    .hoadonmau .margintop13 {
+        margin-top: 13px;
+    }
+
+    .hoadonmau .margintop14 {
+        margin-top: 14px;
+    }
+
+    .hoadonmau .margintop15 {
+        margin-top: 15px;
+    }
+
+    .hoadonmau .margintop16 {
+        margin-top: 16px;
+    }
+
+    .hoadonmau .margintop17 {
+        margin-top: 17px;
+    }
+
+    .hoadonmau .margintop18 {
+        margin-top: 18px;
+    }
+
+    .hoadonmau .margintop19 {
+        margin-top: 19px;
+    }
+
+    .hoadonmau .margintop20 {
+        margin-top: 20px;
+    }
+
+    .hoadonmau .margintop21 {
+        margin-top: 21px;
+    }
+
+    .hoadonmau .margintop22 {
+        margin-top: 22px;
+    }
+
+    .hoadonmau .margintop23 {
+        margin-top: 23px;
+    }
+
+    .hoadonmau .margintop24 {
+        margin-top: 26px;
+    }
+
+    .hoadonmau .margintop25 {
+        margin-top: 25px;
+    }
+
+    .hoadonmau .margintop26 {
+        margin-top: 26px;
+    }
+
+    .hoadonmau .margintop27 {
+        margin-top: 27px;
+    }
+
+    .hoadonmau .margintop28 {
+        margin-top: 28px;
+    }
+
+    .hoadonmau .margintop29 {
+        margin-top: 29px;
+    }
+
+    .hoadonmau .margintop30 {
+        margin-top: 30px;
+    }
+
+    .hoadonmau .margintop31 {
+        margin-top: 31px;
+    }
+
+    .hoadonmau .margintop32 {
+        margin-top: 32px;
+    }
+
+    .hoadonmau .margintop33 {
+        margin-top: 33px;
+    }
+
+    .hoadonmau .margintop34 {
+        margin-top: 34px;
+    }
+
+    .hoadonmau .margintop35 {
+        margin-top: 35px;
+    }
+
+    .hoadonmau .marginright8 {
+        margin-right: 8px;
+    }
+
+    .hoadonmau .marginright9 {
+        margin-right: 9px;
+    }
+
+    .hoadonmau .marginright10 {
+        margin-right: 10px;
+    }
+
+    .hoadonmau .marginright11 {
+        margin-right: 11px;
+    }
+
+    .hoadonmau .marginright12 {
+        margin-right: 12px;
+    }
+
+    .hoadonmau .marginright13 {
+        margin-right: 13px;
+    }
+
+    .hoadonmau .marginright14 {
+        margin-right: 14px;
+    }
+
+    .hoadonmau .marginright15 {
+        margin-right: 15px;
+    }
+
+    .hoadonmau .marginright16 {
+        margin-right: 16px;
+    }
+
+    .hoadonmau .marginright17 {
+        margin-right: 17px;
+    }
+
+    .hoadonmau .marginright18 {
+        margin-right: 18px;
+    }
+
+    .hoadonmau .marginright19 {
+        margin-right: 19px;
+    }
+
+    .hoadonmau .marginright20 {
+        margin-right: 20px;
+    }
+
+    .hoadonmau .marginright21 {
+        margin-right: 21px;
+    }
+
+    .hoadonmau .marginright22 {
+        margin-right: 22px;
+    }
+
+    .hoadonmau .marginright23 {
+        margin-right: 23px;
+    }
+
+    .hoadonmau .marginright24 {
+        margin-right: 26px;
+    }
+
+    .hoadonmau .marginright25 {
+        margin-right: 25px;
+    }
+
+    .hoadonmau .marginright26 {
+        margin-right: 26px;
+    }
+
+    .hoadonmau .marginright27 {
+        margin-right: 27px;
+    }
+
+    .hoadonmau .marginright28 {
+        margin-right: 28px;
+    }
+
+    .hoadonmau .marginright29 {
+        margin-right: 29px;
+    }
+
+    .hoadonmau .marginright30 {
+        margin-right: 30px;
+    }
+
+    .hoadonmau .marginright31 {
+        margin-right: 31px;
+    }
+
+    .hoadonmau .marginright32 {
+        margin-right: 32px;
+    }
+
+    .hoadonmau .marginright33 {
+        margin-right: 33px;
+    }
+
+    .hoadonmau .marginright34 {
+        margin-right: 34px;
+    }
+
+    .hoadonmau .marginright35 {
+        margin-right: 35px;
+    }
+
+    .hoadonmau .marginbottom8 {
+        margin-bottom: 8px;
+    }
+
+    .hoadonmau .marginbottom9 {
+        margin-bottom: 9px;
+    }
+
+    .hoadonmau .marginbottom10 {
+        margin-bottom: 10px;
+    }
+
+    .hoadonmau .marginbottom11 {
+        margin-bottom: 11px;
+    }
+
+    .hoadonmau .marginbottom12 {
+        margin-bottom: 12px;
+    }
+
+    .hoadonmau .marginbottom13 {
+        margin-bottom: 13px;
+    }
+
+    .hoadonmau .marginbottom14 {
+        margin-bottom: 14px;
+    }
+
+    .hoadonmau .marginbottom15 {
+        margin-bottom: 15px;
+    }
+
+    .hoadonmau .marginbottom16 {
+        margin-bottom: 16px;
+    }
+
+    .hoadonmau .marginbottom17 {
+        margin-bottom: 17px;
+    }
+
+    .hoadonmau .marginbottom18 {
+        margin-bottom: 18px;
+    }
+
+    .hoadonmau .marginbottom19 {
+        margin-bottom: 19px;
+    }
+
+    .hoadonmau .marginbottom20 {
+        margin-bottom: 20px;
+    }
+
+    .hoadonmau .marginbottom21 {
+        margin-bottom: 21px;
+    }
+
+    .hoadonmau .marginbottom22 {
+        margin-bottom: 22px;
+    }
+
+    .hoadonmau .marginbottom23 {
+        margin-bottom: 23px;
+    }
+
+    .hoadonmau .marginbottom24 {
+        margin-bottom: 26px;
+    }
+
+    .hoadonmau .marginbottom25 {
+        margin-bottom: 25px;
+    }
+
+    .hoadonmau .marginbottom26 {
+        margin-bottom: 26px;
+    }
+
+    .hoadonmau .marginbottom27 {
+        margin-bottom: 27px;
+    }
+
+    .hoadonmau .marginbottom28 {
+        margin-bottom: 28px;
+    }
+
+    .hoadonmau .marginbottom29 {
+        margin-bottom: 29px;
+    }
+
+    .hoadonmau .marginbottom30 {
+        margin-bottom: 30px;
+    }
+
+    .hoadonmau .marginbottom31 {
+        margin-bottom: 31px;
+    }
+
+    .hoadonmau .marginbottom32 {
+        margin-bottom: 32px;
+    }
+
+    .hoadonmau .marginbottom33 {
+        margin-bottom: 33px;
+    }
+
+    .hoadonmau .marginbottom34 {
+        margin-bottom: 34px;
+    }
+
+    .hoadonmau .marginbottom35 {
+        margin-bottom: 35px;
+    }
+
+    .hoadonmau .marginleft8 {
+        margin-left: 8px;
+    }
+
+    .hoadonmau .marginleft9 {
+        margin-left: 9px;
+    }
+
+    .hoadonmau .marginleft10 {
+        margin-left: 10px;
+    }
+
+    .hoadonmau .marginleft11 {
+        margin-left: 11px;
+    }
+
+    .hoadonmau .marginleft12 {
+        margin-left: 12px;
+    }
+
+    .hoadonmau .marginleft13 {
+        margin-left: 13px;
+    }
+
+    .hoadonmau .marginleft14 {
+        margin-left: 14px;
+    }
+
+    .hoadonmau .marginleft15 {
+        margin-left: 15px;
+    }
+
+    .hoadonmau .marginleft16 {
+        margin-left: 16px;
+    }
+
+    .hoadonmau .marginleft17 {
+        margin-left: 17px;
+    }
+
+    .hoadonmau .marginleft18 {
+        margin-left: 18px;
+    }
+
+    .hoadonmau .marginleft19 {
+        margin-left: 19px;
+    }
+
+    .hoadonmau .marginleft20 {
+        margin-left: 20px;
+    }
+
+    .hoadonmau .marginleft21 {
+        margin-left: 21px;
+    }
+
+    .hoadonmau .marginleft22 {
+        margin-left: 22px;
+    }
+
+    .hoadonmau .marginleft23 {
+        margin-left: 23px;
+    }
+
+    .hoadonmau .marginleft24 {
+        margin-left: 26px;
+    }
+
+    .hoadonmau .marginleft25 {
+        margin-left: 25px;
+    }
+
+    .hoadonmau .marginleft26 {
+        margin-left: 26px;
+    }
+
+    .hoadonmau .marginleft27 {
+        margin-left: 27px;
+    }
+
+    .hoadonmau .marginleft28 {
+        margin-left: 28px;
+    }
+
+    .hoadonmau .marginleft29 {
+        margin-left: 29px;
+    }
+
+    .hoadonmau .marginleft30 {
+        margin-left: 30px;
+    }
+
+    .hoadonmau .marginleft31 {
+        margin-left: 31px;
+    }
+
+    .hoadonmau .marginleft32 {
+        margin-left: 32px;
+    }
+
+    .hoadonmau .marginleft33 {
+        margin-left: 33px;
+    }
+
+    .hoadonmau .marginleft34 {
+        margin-left: 34px;
+    }
+
+    .hoadonmau .marginleft35 {
+        margin-left: 35px;
+    }
+
+    .hoadonmau .aligncenter {
+        text-align: center
+    }
+
+    .hoadonmau .alignleft {
+        text-align: left
+    }
+
+    .hoadonmau .alignright {
+        text-align: right
+    }
+
+    .hoadonmau .VTalignmidle {
+        vertical-align: middle;
+    }
+
+    .hoadonmau .VTaligntop {
+        vertical-align: top;
+    }
+
+    .hoadonmau .VTalignbottom {
+        vertical-align: bottom;
+    }
+
+    #qrcode {}
+
+    .dp-tc {
+        display: table-cell;
+    }
+
+    .hoadonmau * {
+        line-height: 22px;
+    }
+
+    .label {
+        padding-left: 4px;
+    }
+
+    .songNgu {
+        padding-left: 4px;
+        vertical-align: top;
+    }
+
+    .value {
+        padding-left: 4px;
+    }
+
+    .wsn {
+        white-space: nowrap;
+    }
+
+    .w100 {
+        width: 100%;
+    }
+
+    .active-collapse {
+        background-color: #e7f1ff;
+        border-bottom: 1px solid #dee2e6;
+    }
